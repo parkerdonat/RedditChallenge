@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:RedditChallenge.xcodeproj">
+      location = "self:Subreddit.xcodeproj">
    </FileRef>
 </Workspace>

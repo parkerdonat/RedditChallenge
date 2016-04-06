@@ -4,7 +4,7 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>RedditChallenge.xcscheme</key>
+		<key>Subreddit.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>0</integer>
@@ -12,7 +12,7 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>DDF47DF41CA97FC4008B471C</key>
+		<key>028A78761CA975A800408667</key>
 		<dict>
 			<key>primary</key>
 			<true/>

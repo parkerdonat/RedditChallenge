@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "DDF47DF41CA97FC4008B471C"
-               BuildableName = "RedditChallenge.app"
-               BlueprintName = "RedditChallenge"
-               ReferencedContainer = "container:RedditChallenge.xcodeproj">
+               BlueprintIdentifier = "028A78761CA975A800408667"
+               BuildableName = "Subreddit.app"
+               BlueprintName = "Subreddit"
+               ReferencedContainer = "container:Subreddit.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -32,10 +32,10 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "DDF47DF41CA97FC4008B471C"
-            BuildableName = "RedditChallenge.app"
-            BlueprintName = "RedditChallenge"
-            ReferencedContainer = "container:RedditChallenge.xcodeproj">
+            BlueprintIdentifier = "028A78761CA975A800408667"
+            BuildableName = "Subreddit.app"
+            BlueprintName = "Subreddit"
+            ReferencedContainer = "container:Subreddit.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -55,10 +55,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "DDF47DF41CA97FC4008B471C"
-            BuildableName = "RedditChallenge.app"
-            BlueprintName = "RedditChallenge"
-            ReferencedContainer = "container:RedditChallenge.xcodeproj">
+            BlueprintIdentifier = "028A78761CA975A800408667"
+            BuildableName = "Subreddit.app"
+            BlueprintName = "Subreddit"
+            ReferencedContainer = "container:Subreddit.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -74,10 +74,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "DDF47DF41CA97FC4008B471C"
-            BuildableName = "RedditChallenge.app"
-            BlueprintName = "RedditChallenge"
-            ReferencedContainer = "container:RedditChallenge.xcodeproj">
+            BlueprintIdentifier = "028A78761CA975A800408667"
+            BuildableName = "Subreddit.app"
+            BlueprintName = "Subreddit"
+            ReferencedContainer = "container:Subreddit.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
